@@ -1,5 +1,7 @@
 # Subtitle Generation for Videos
-This repository contains a Python code that automatically generates subtitles for videos. The code is designed to be run in Google Colaboratory or local.
+>This repository contains a Python code that automatically generates subtitles for videos. The code is designed to be run in Google Colaboratory or local.
+
+
 ![alt text](https://github.com/enf3tri/sub/blob/main/img/sub-screen-1.png)
 ![alt text](https://github.com/enf3tri/sub/blob/main/img/sub-screen-2.png)
 
