@@ -1,0 +1,4 @@
+ffmpeg-python == 0.2.0
+moviepy == 1.0.3
+faster-whisper == 0.6.0
+translators == 5.7.6
